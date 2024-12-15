@@ -15,7 +15,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.16.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "lz-string": "^1.4.4",
     "native-base": "^2.13.0",
     "npm": "^6.13.1",
